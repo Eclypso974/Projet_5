@@ -1,2 +1,1 @@
-# Projet_5
-Projet premiers pas sur le langage javascript
+# Print-It WebSite v.1
